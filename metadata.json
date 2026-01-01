@@ -1,5 +1,5 @@
 {
-  "description": "A high-fidelity project management dashboard with Kanban functionality, role-based views for teams and clients, real-time transparency, and an integrated approval system.",
+  "description": "A collaborative project management platform featuring specialized Team and Client login modes, a 4-stage Kanban workflow with native drag-and-drop, global persistent chat, and cross-device sync via simulated storage.",
   "requestFramePermissions": [],
-  "name": "App"
+  "name": "Avocado PM"
 }
